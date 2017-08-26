@@ -4,7 +4,6 @@
 
 <template>
     <div>
-        App123
         <transition name="slide">
 			<router-view></router-view>
 		</transition>
