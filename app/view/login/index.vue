@@ -16,7 +16,7 @@
 
 <template>
     <div>
-        <button @click='routerGo'>Login</button>   
+        <button @click='routerGo'>Login 登陆</button>   
 	</div>
 </template>
 
